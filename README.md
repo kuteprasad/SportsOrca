@@ -10,6 +10,9 @@ A real-time NBA game tracker built with React and Express that shows live scores
 - Responsive design
 - Real-time data from Ball Don't Lie API
 
+## Illustrations
+- Check the illustration.png file for getting an idea how the homepage looks like after proper setup.
+
 ## Tech Stack
 
 - **Frontend**: React + Vite, TailwindCSS
