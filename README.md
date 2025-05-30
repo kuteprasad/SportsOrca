@@ -28,8 +28,8 @@ A real-time NBA game tracker built with React and Express that shows live scores
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nba-live-scores.git
-cd nba-live-scores
+git clone https://github.com/kuteprasad/SportsOrca.git
+cd SportsOrca
 ```
 
 2. Install dependencies
